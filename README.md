@@ -1,8 +1,12 @@
-# (Dataset Exploration Title)
+# Analysis of Ford Bike Sharing Data In Francisco Bay Area
 ## by Odimegwu David
 
 
 ## Dataset
+
+> This project was carried out to satisfy the requirements for an Udacity Nanodegree in the Udacity Nanodegree for Data Analysis program. The dataset in the file `fordgobike.csv` was provided by Udacity and used as-is. 
+
+
 
 > Provide basic information about your dataset in this section. If you selected your own dataset, make sure you note the source of your data and summarize any data wrangling steps that you performed before you started your exploration.
 
