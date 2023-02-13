@@ -52,6 +52,10 @@ although they rent lesser number of times.
 
 > 15. We can see that for females, the highest mean distances traveled were recorded on thursdays and Tuesdays, while for men, it was thursdays and fridays.  
 
+> 16. Bike sharing is a factor that limits the distance a biker can go. This is evident from the fact that male and female bikers who do not bike share have a significantly higher average distance traveled than bikers of both gender who bike share. 
+
+> 17. Non-bike sharing bikers travel more distances generally than bike sharing bikers. Bike sharing bikers prefer going further during the weekends compared to non-bike sharing bikers who prefer weekdays. 
+
 ## Key Insights for Presentation
 
 > It was observed that bikers are creatures of habit. They tend to use the same station when renting and returning bikes. The most notable are Market St at 10th St and San Francisco Caltrain Station 2 (Townsend St at 4th St). 
