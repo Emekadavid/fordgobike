@@ -54,4 +54,10 @@ although they rent lesser number of times.
 
 ## Key Insights for Presentation
 
-> Select one or two main threads from your exploration to polish up for your presentation. Note any changes in design from your exploration step here.
+> It was observed that bikers are creatures of habit. They tend to use the same station when renting and returning bikes. The most notable are Market St at 10th St and San Francisco Caltrain Station 2 (Townsend St at 4th St). 
+
+> It was also noticed that most bikers are very young people. The modal age for bikers is 35 with a majority of them falling between 25 and 40 years. But senior citizens also use bikes for commuting. From these young bikers, men form a larger proportion of the number. 
+
+> The best days for renting and returning bikes were Thursdays, Tuesdays, and Fridays. It was observed that rented bikes are usually returned on the same day. This is because most biking distances are short distances. Most distances are within the 1 kilometers mark and rarely do you find something exceeding 4 kilometers in distance. 
+
+> Women make up a smaller number than men but they use bikes for longer distances than men and their preferred days also varies. While women prefer using bikes on Thursdays and Tuesdays, men prefer using bikes on Thursdays and Fridays for short commutes in the morning and evenings. 
